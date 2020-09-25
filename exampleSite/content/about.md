@@ -7,7 +7,7 @@ An environmental scientist using the virtual world to solve problems in the phys
 
 ## Interests 
 
-I enjoy a plethora of outdoor activities including trail running, backpacking, mountaineering, kayaking, climbing, and mountain biking. I am happiest off the concrete and on the grass.
+I enjoy a plethora of outdoor activities including trail running, backpacking, mountaineering, kayaking, climbing, and mountain biking. I am happiest off the concrete.
 
 ## Current Focus
 
