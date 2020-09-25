@@ -80,25 +80,10 @@ disqusShortname = "yourdiscussshortname"
     weight = 2
     url = "https://gitlab.com/jakemerten"
 [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
-    weight = 3
-    url = "https://twitter.com/johndoe/"
-[[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
-    weight = 6
+    weight = 3
     url = "https://www.linkedin.com/in/jakemerten/"
-[[params.social]]
-    name = "Medium"
-    icon = "fab fa-medium"
-    weight = 5
-    url = "https://medium.com/@jakemer10"
-[[params.social]]
-    name = "Behance"
-    icon = "fa fa-behance"
-    weight = 6
-    url = "https://www.behance.net/jakemerten"
 
 
 [languages]
@@ -115,15 +100,15 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "Blog"
             weight = 2
-            url = "posts/"
+            url = "https://medium.com/@jakemer10"
 
             [[languages.en.menu.main]]
             name = "Projects"
             weight = 3
-            url = "projects/"
+            url = "https://www.behance.net/jakemerten"
 
             [[languages.en.menu.main]]
             name = "Contact me"
             weight = 5
-            url = "contact/"
+            url = "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jakemer10@gmail.com"
 
