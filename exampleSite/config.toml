@@ -46,9 +46,6 @@ disqusShortname = "yourdiscussshortname"
     # Series see also post count
     maxSeeAlsoItems = 5
 
-    # Enable Twemoji
-    enableTwemoji = true
-
     # Custom CSS
     custom_css = []
 
