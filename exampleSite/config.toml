@@ -95,12 +95,10 @@ disqusShortname = "yourdiscussshortname"
     weight = 5
     url = "https://medium.com/@jakemer10"
 [[params.social]]
-    name = "RSS"
-    icon = "fab fa-tree"
+    name = "Behance"
+    icon = "fa fa-behance"
     weight = 6
-    url = "https://myhugosite.com/index.xml"
-    rel = "alternate"
-    type = "application/rss+xml"
+    url = "https://www.behance.net/jakemerten"
 
 
 [languages]
