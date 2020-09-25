@@ -96,7 +96,7 @@ disqusShortname = "yourdiscussshortname"
     url = "https://medium.com/@jakemer10"
 [[params.social]]
     name = "RSS"
-    icon = "fas fa-rss"
+    icon = "fab fa-tree"
     weight = 6
     url = "https://myhugosite.com/index.xml"
     rel = "alternate"
