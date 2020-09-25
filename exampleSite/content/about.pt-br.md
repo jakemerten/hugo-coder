@@ -19,11 +19,11 @@ I hope to become an environmental data analyst and cross interagency boundaries 
 
 ### Publications & Media
 
-name = The Value of Wildlife Tourism for Conservation & Communities: A study around four Tiger Reserves in Madhya Pradesh
-url = "https://www.toftigers.org/wp-content/uploads/2019/05/Raghus-Report-The-Value-of-Wildlife-Tourism-in-MP-Oct-2017-003.pdf"
+The Value of Wildlife Tourism for Conservation & Communities: A study around four Tiger Reserves in Madhya Pradesh
+https://www.toftigers.org/wp-content/uploads/2019/05/Raghus-Report-The-Value-of-Wildlife-Tourism-in-MP-Oct-2017-003.pdf
 
-name = Infographic: The Value of Wildlife Tourism for Conservation & Communities in Madhya Pradesh
-url = "https://www.toftigers.org/blog-post/the-value-of-wildlife-tourism-to-conservation-and-communities-in-4-tiger-reserves-in-madhya-pradesh/"
+Infographic: The Value of Wildlife Tourism for Conservation & Communities in Madhya Pradesh
+https://www.toftigers.org/blog-post/the-value-of-wildlife-tourism-to-conservation-and-communities-in-4-tiger-reserves-in-madhya-pradesh/
 							
-name = "A continent-wide study reveals clear relationships between regional abiotic conditions and post-dispersal seed predation"
-url = "https://escholarship.org/uc/item/0qr4h4xg" A continent-wide study reveals clear relationships between regional abiotic conditions and post-dispersal seed predation
+A continent-wide study reveals clear relationships between regional abiotic conditions and post-dispersal seed predation
+https://escholarship.org/uc/item/0qr4h4xg 
