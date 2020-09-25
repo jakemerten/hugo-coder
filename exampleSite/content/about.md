@@ -1,6 +1,6 @@
 +++
 slug = "about"
-title = "About!"
+title = "About Hugo"
 
 +++
 Hugo is a static site engine written in Go.
