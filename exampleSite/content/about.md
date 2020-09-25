@@ -1,29 +1,29 @@
 +++
 slug = "about"
-title = "About Hugo"
+title = "About Jake"
 
 +++
-Hugo is a static site engine written in Go.
+An environmental scientist using the virtual world to solve problems in the physical one. I primarily use Python/SQL; visualize in Tableau.
 
+## Interests 
 
-It makes use of a variety of open source projects including:
+I enjoy a plethora of outdoor activities including trail running, backpacking, mountaineering, kayaking, climbing, and mountain biking. I am happiest off the concrete and on the grass.
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+## Current Focus
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+I am in the process of delving deeper into data analytics. This involves a measured focus on back-end development using Python, SaaS, and SQL while visualizing in Tableau. My current code editor is Visual Studio. I am hoping to parlay my programming knowledge into ArcGIS to create dynamic maps that display a wide breadth of information at a glance.
 
-## Setup
+## In 5 years...
 
-Some fun facts about [Hugo](http://gohugo.io/):
+I hope to become an environmental data analyst and cross interagency boundaries to inform scientists and the public alike of impending and current environmental issues. I believe that data is the future and embracing it will pave the path through many problems.
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+### Publications & Media
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+name = The Value of Wildlife Tourism for Conservation & Communities: A study around four Tiger Reserves in Madhya Pradesh
+url = "https://www.toftigers.org/wp-content/uploads/2019/05/Raghus-Report-The-Value-of-Wildlife-Tourism-in-MP-Oct-2017-003.pdf"
 
-Thanks for reading!
+name = Infographic: The Value of Wildlife Tourism for Conservation & Communities in Madhya Pradesh
+url = "https://www.toftigers.org/blog-post/the-value-of-wildlife-tourism-to-conservation-and-communities-in-4-tiger-reserves-in-madhya-pradesh/"
+							
+name = "A continent-wide study reveals clear relationships between regional abiotic conditions and post-dispersal seed predation"
+url = "https://escholarship.org/uc/item/0qr4h4xg" A continent-wide study reveals clear relationships between regional abiotic conditions and post-dispersal seed predation
