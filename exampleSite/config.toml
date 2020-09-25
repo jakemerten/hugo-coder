@@ -1,5 +1,5 @@
 baseurl = "http://www.example.com"
-title = "<i class="fa fa-tree" aria-hidden="true"></i> Jake Merten's Portfolio"
+title = "Jake Merten's Portfolio"
 
 theme = "hugo-coder"
 
