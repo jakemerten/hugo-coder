@@ -96,7 +96,7 @@ disqusShortname = "yourdiscussshortname"
     url = "https://medium.com/@jakemer10"
 [[params.social]]
     name = "Behance"
-    icon = "<i class="fa fa-behance" aria-hidden="true"></i>"
+    icon = "fa fa-behance"
     weight = 6
     url = "https://www.behance.net/jakemerten"
 
