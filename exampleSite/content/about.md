@@ -3,7 +3,7 @@ slug = "about"
 title = "About Jake"
 
 +++
-An environmental scientist using the virtual world to solve problems in the physical one. I primarily use Python/SQL; visualize in Tableau.
+An environmental scientist using the virtual world to solve problems in the physical one. I primarily use Python/SQL; visualize in D3.js/Tableau.
 
 ## Interests 
 
