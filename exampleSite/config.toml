@@ -1,5 +1,5 @@
 baseurl = "http://www.example.com"
-title = "johndoe"
+title = "Jake Merten Portfolio"
 
 theme = "hugo-coder"
 
@@ -16,13 +16,13 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
+    author = "Jake Merten"
     description = "John Doe's personal website"
     keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
+    info = "Backend Developer and Environmental Scientist"
     avatarurl = "images/avatar.jpg"
-    #gravatar = "john.doe@example.com"
-    footercontent = "Enter a text here."
+    #gravatar = "jakemer10@gmail.com"
+    footercontent = "The story you tell yourself becomes your reality."
 
     dateformat = "January 2, 2006"
 
@@ -73,12 +73,12 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/jakemerten"
 [[params.social]]
     name = "Gitlab"
     icon = "fab fa-gitlab"
     weight = 2
-    url = "https://gitlab.com/johndoe/"
+    url = "https://github.com/jakemerten"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
@@ -88,7 +88,7 @@ disqusShortname = "yourdiscussshortname"
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
+    url = "https://www.linkedin.com/in/jakemerten/"
 [[params.social]]
     name = "Medium"
     icon = "fab fa-medium"
