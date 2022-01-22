@@ -98,7 +98,7 @@ disqusShortname = "yourdiscussshortname"
             url = "about/"
 
             [[languages.en.menu.main]]
-            name = "Zach's Penis"
+            name = "Blog"
             weight = 2
             url = "https://medium.com/@jakemer10"
 
