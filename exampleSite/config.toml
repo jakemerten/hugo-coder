@@ -105,7 +105,7 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "Projects"
             weight = 3
-            url = "https://www.behance.net/jakemerten target="_blank""
+            url = "https://www.behance.net/jakemerten"
 
             [[languages.en.menu.main]]
             name = "Contact"
