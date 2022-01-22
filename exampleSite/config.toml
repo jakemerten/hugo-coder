@@ -6,6 +6,9 @@ theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
+[blackfriday]
+    hrefTargetBlank = true
+
 paginate = 20
 canonifyurls = true
 
