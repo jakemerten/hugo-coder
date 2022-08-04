@@ -3,19 +3,19 @@ slug = "about"
 title = "About Jake"
 
 +++
-An environmental scientist using the virtual world to solve problems in the physical one. I primarily use Python/SQL; visualize in D3.js/Tableau.
+An environmental scientist using the virtual world to solve problems in the physical one. I primarily use Python/SQL; visualize in PowerBI/D3.js.
 
 ## Interests 
 
-I enjoy a plethora of outdoor activities including trail running, backpacking, mountaineering, kayaking, climbing, and mountain biking. I am happiest off the concrete.
+I enjoy a plethora of outdoor activities including trail running, backpacking, mountaineering, kayaking, climbing, and mountain biking. I like to read and play strategy video games.
 
 ## Current Focus
 
-I am in the process of delving deeper into data analytics. This involves a measured focus on back-end development using Python, SaaS, and SQL while visualizing in Tableau. My current code editor is Visual Studio. I am hoping to parlay my programming knowledge into ArcGIS to create dynamic maps that display a wide breadth of information at a glance.
+I am in the process of delving deeper into back-end development using Python. I am hoping to parlay my previous programming knowledge to create easy to use products that serve as a valuable endpoint for analyzing large data sets.
 
 ## In 5 years...
 
-I hope to become an environmental data analyst and cross interagency boundaries to inform scientists and the public alike of impending and current environmental issues. I believe that data is the future and embracing it will pave the path through many problems.
+I want to be a backend developer helping to create useful tools and further user efficiency. I believe that data is the future and embracing it will pave the path through many problems.
 
 ### Publications & Media
 
