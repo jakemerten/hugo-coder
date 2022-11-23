@@ -98,9 +98,9 @@ disqusShortname = "yourdiscussshortname"
             url = "about/"
 
             [[languages.en.menu.main]]
-            name = "Blog"
+            name = "Resumé"
             weight = 2
-            url = "https://medium.com/@jakemer10"
+            url = "https://drive.google.com/file/d/1yBzjD5N2voi34TMuVhxBiK9CJNNfQNhV/view?usp=sharing"
 
             [[languages.en.menu.main]]
             name = "Projects"
@@ -108,13 +108,14 @@ disqusShortname = "yourdiscussshortname"
             url = "https://www.behance.net/jakemerten"
 
             [[languages.en.menu.main]]
-            name = "Contact"
+            name = "Blog"
             weight = 4
+            url = "https://medium.com/@jakemer10"
+
+            [[languages.en.menu.main]]
+            name = "Contact"
+            weight = 5
             url = "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jakemer10@gmail.com"
             
-            [[languages.en.menu.main]]
-            name = "Resumé"
-            weight = 5
-            url = "https://drive.google.com/file/d/1yBzjD5N2voi34TMuVhxBiK9CJNNfQNhV/view?usp=sharing"
 
 
