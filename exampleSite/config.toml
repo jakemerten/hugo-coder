@@ -22,7 +22,7 @@ disqusShortname = "yourdiscussshortname"
     info = "Backend Developer & Environmental Scientist"
     avatarurl = "images/woo.jpg"
     #gravatar = "jakemer10@gmail.com"
-    footercontent = "The story you tell yourself becomes your reality."
+    footercontent = "https://drive.google.com/file/d/1yBzjD5N2voi34TMuVhxBiK9CJNNfQNhV/view?usp=sharing"
 
     dateformat = "January 2, 2006"
 
@@ -108,12 +108,7 @@ disqusShortname = "yourdiscussshortname"
             url = "https://www.behance.net/jakemerten"
 
             [[languages.en.menu.main]]
-            name = "Experience"
-            weight = 4
-            url = "experience/"
-
-            [[languages.en.menu.main]]
             name = "Contact"
-            weight = 5
+            weight = 4
             url = "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jakemer10@gmail.com"
 
