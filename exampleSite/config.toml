@@ -22,7 +22,8 @@ disqusShortname = "yourdiscussshortname"
     info = "Backend Developer & Environmental Scientist"
     avatarurl = "images/woo.jpg"
     #gravatar = "jakemer10@gmail.com"
-    footercontent = "https://drive.google.com/file/d/1yBzjD5N2voi34TMuVhxBiK9CJNNfQNhV/view?usp=sharing"
+    footercontent = "View My Resume"
+    footerURL = "https://drive.google.com/file/d/1yBzjD5N2voi34TMuVhxBiK9CJNNfQNhV/view?usp=sharing"
 
     dateformat = "January 2, 2006"
 
