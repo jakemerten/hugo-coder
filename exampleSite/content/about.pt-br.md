@@ -1,21 +1,13 @@
 +++
-title = "About Jake"
 slug = "about"
-+++
+title = "About Jake"
 
-An environmental scientist using the virtual world to solve problems in the physical one. I primarily use Python/SQL; visualize in PowerBI/D3.js.
++++
+I am an environmental scientist turned backend developer using the virtual world to solve problems in the physical one. I primarily use Python, Java, and SQL; I visualize in PowerBI/Tableau. I wrote this website in Go and HTML/CSS. I am passionate about data analytics and visualization, iterative improvement, and complex problem solving. I believe effective communication and efficient teamwork are key in a productive development processes.
 
 ## Interests 
 
-I enjoy a plethora of outdoor activities including trail running, backpacking, mountaineering, kayaking, climbing, and mountain biking. I like to read and play strategy video games.
-
-## Current Focus
-
-I am in the process of delving deeper into back-end development using Python. I am hoping to parlay my previous programming knowledge to create easy to use products that serve as a valuable endpoint for analyzing large data sets.
-
-## In 5 years...
-
-I want to be a backend developer helping to create useful tools and further user efficiency. I believe that data is the future and embracing it will pave the path through many problems.
+I enjoy solving puzzles, compiling and visualizing complex data into digestable products. I also love to go trail running, hiking, backpacking, mountaineering, kayaking, and skiing. I like to read and play strategy video games.
 
 ### Publications & Media
 
