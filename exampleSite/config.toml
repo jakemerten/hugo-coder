@@ -22,7 +22,9 @@ disqusShortname = "yourdiscussshortname"
     info = "Backend Developer & Environmental Scientist"
     avatarurl = "images/woo.jpg"
     #gravatar = "jakemer10@gmail.com"
-    footercontent = "The story you tell yourself becomes your reality."
+    footercontent = "<a href="Merten_Jacob_Resume_2022.pdf" download>
+    <img src="Merten_Jacob_Resume_2022.pdf" alt="View My Resume">
+    </a>"
 
     dateformat = "January 2, 2006"
 
@@ -32,7 +34,7 @@ disqusShortname = "yourdiscussshortname"
     since = 2020
 
     # Git Commit in Footer, uncomment the line below to enable it.
-    commit = ";https://github.com/luizdepra/hugo-coder/tree/"
+    commit = "https://github.com/luizdepra/hugo-coder/tree/"
 
     rtl = false
 
