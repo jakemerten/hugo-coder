@@ -22,9 +22,7 @@ disqusShortname = "yourdiscussshortname"
     info = "Backend Developer & Environmental Scientist"
     avatarurl = "images/woo.jpg"
     #gravatar = "jakemer10@gmail.com"
-    footercontent = "name = "Resume"
-    icon = "images/Merten_Jacob_Resume_2022.pdf"
-    url = "https://www.linkedin.com/in/jakemerten/"
+    footercontent = "The story you tell yourself becomes your reality."
 
     dateformat = "January 2, 2006"
 
