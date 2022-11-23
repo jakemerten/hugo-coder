@@ -112,7 +112,7 @@ disqusShortname = "yourdiscussshortname"
             weight = 4
             url = "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jakemer10@gmail.com"
             
-            [languages.en.menu.main]]
+            [[languages.en.menu.main]]
             name = "Resumé"
             weight = 5
             url = "https://drive.google.com/file/d/1yBzjD5N2voi34TMuVhxBiK9CJNNfQNhV/view?usp=sharing"
