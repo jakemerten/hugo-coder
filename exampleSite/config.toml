@@ -22,7 +22,7 @@ disqusShortname = "yourdiscussshortname"
     info = "Backend Developer & Environmental Scientist"
     avatarurl = "images/woo.jpg"
     #gravatar = "jakemer10@gmail.com"
-    footercontent = Lalala
+    footercontent = "Lalala"
 
     dateformat = "January 2, 2006"
 
