@@ -15,11 +15,6 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "yourdiscussshortname"
 
-[markup]
-  defaultMarkdownHandler = 'blackFriday'
-  [markup.blackFriday]
-    hrefTargetBlank = true
-
 [params]
     author = "Jake Merten"
     description = "Jake Merten's portfolio website"
@@ -120,7 +115,7 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "Contact"
             weight = 5
-            url = "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jakemer10@gmail.com" 
+            url = "<a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jakemer10@gmail.com' target='_blank'>Contact</a>" 
             
 
 
